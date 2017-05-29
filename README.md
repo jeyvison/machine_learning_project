@@ -2,13 +2,13 @@
 
 The Libraries used in this project are the following:
 
-* **matplotlib**
-* **pandas**
-* **numpy**
-* **sklearn**
-* **IPython**
-* **visuals**
-* **seaborn**
+* ** matplotlib **
+* ** pandas **
+* ** numpy **
+* ** sklearn **
+* ** IPython **
+* ** visuals **
+* ** seaborn **
 
 In this repository you will find:
 * ** A PDF file with the project documentation **
